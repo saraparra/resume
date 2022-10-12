@@ -1,0 +1,51 @@
+h1 {
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-family: helvetica;
+}
+
+p {
+    font-family: helvetica;
+}
+
+.banner-image {
+    position:relative;
+    background-image: url(pattern.jpeg);
+    background-color: orange;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
+
+.link { 
+    color: blue;
+    font-weight: bold;
+    font-family: helvetica;
+}
